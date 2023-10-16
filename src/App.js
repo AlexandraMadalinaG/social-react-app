@@ -9,12 +9,10 @@ function App() {
         <>
             <TopBar />
 
-            <div className="container">
-                <Routes>
-                    <Route path="/" element={<Home />}></Route>
-                    <Route path="/login" element={<LogIn />}></Route>
-                </Routes>
-            </div>
+            <Routes>
+                <Route path="/home" element={<Home />}></Route>
+                <Route path="/login" element={<LogIn />}></Route>
+            </Routes>
         </>
     );
 }

@@ -85,7 +85,7 @@ function CustomerLink({ to, ...props }) {
   const path = window.location.pathname;
 
   return (
-      <li className={path === to ? 'active' : '/home'}>
+      <li className={path === to ? 'active' : ''}>
           <Link to={to} {...props}></Link>
       </li>
   );

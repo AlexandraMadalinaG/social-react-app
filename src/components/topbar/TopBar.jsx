@@ -26,7 +26,7 @@ const [action, setAction] = useState("Log In");
 
         {action==="LogIn"?<div></div>:<div className="searchbar">
             <SearchIcon className="search-icon" />
-            <input  placeholder="Search FriendsHome" className="search-input" />
+            <input type="text" placeholder="Search FriendsHome" className="search-input" />
           </div>}
 
 

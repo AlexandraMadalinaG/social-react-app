@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/social-react-app/static/css/main.32d05814.css",
+    "main.js": "/social-react-app/static/js/main.42badfe7.js",
+    "static/media/post5.jpeg": "/social-react-app/static/media/post5.689db73817af2692eb1d.jpeg",
+    "static/media/post3.jpeg": "/social-react-app/static/media/post3.569b1d62200a682fe6dc.jpeg",
+    "static/media/post1.jpeg": "/social-react-app/static/media/post1.04b4b4251d81cd10e889.jpeg",
+    "static/media/post6.jpeg": "/social-react-app/static/media/post6.b63213355502865ad5ce.jpeg",
+    "static/media/post2.jpeg": "/social-react-app/static/media/post2.c1d02c7760614a20300c.jpeg",
+    "static/media/post7.jpeg": "/social-react-app/static/media/post7.f46f20129a32ce8b4b35.jpeg",
+    "static/media/img-profile3.jpeg": "/social-react-app/static/media/img-profile3.74c3b348ddcd28dff03f.jpeg",
+    "static/media/img-profile2.jpeg": "/social-react-app/static/media/img-profile2.542723cec96a7c08d395.jpeg",
+    "static/media/adds1.jpeg": "/social-react-app/static/media/adds1.8b6db93f346b3ccd48ab.jpeg",
+    "static/media/img-profile6.jpeg": "/social-react-app/static/media/img-profile6.afa5ffc2422e11ca24dd.jpeg",
+    "static/media/person5.jpeg": "/social-react-app/static/media/person5.478fa1fe982dbc5b8e06.jpeg",
+    "static/media/post4.jpeg": "/social-react-app/static/media/post4.b206abf8b011779d2ccc.jpeg",
+    "static/media/img-profile5.jpeg": "/social-react-app/static/media/img-profile5.e03db835f72e4fa019f7.jpeg",
+    "static/media/img-profile1.jpeg": "/social-react-app/static/media/img-profile1.8d814f9ded5d770c6c8d.jpeg",
+    "static/media/img-profile7.jpeg": "/social-react-app/static/media/img-profile7.934961b71f92e27f4640.jpeg",
+    "static/media/person2.jpeg": "/social-react-app/static/media/person2.c3a133471b5e5308145f.jpeg",
+    "static/media/img-profile4.jpeg": "/social-react-app/static/media/img-profile4.5fdf41a099cd03f0f03c.jpeg",
+    "static/media/person3.jpeg": "/social-react-app/static/media/person3.ae0329c981a27cb10d46.jpeg",
+    "static/media/person7.jpeg": "/social-react-app/static/media/person7.a3decd58f4191e8cd104.jpeg",
+    "static/media/person6.jpeg": "/social-react-app/static/media/person6.e0ced09c70e302098801.jpeg",
+    "index.html": "/social-react-app/index.html",
+    "main.32d05814.css.map": "/social-react-app/static/css/main.32d05814.css.map",
+    "main.42badfe7.js.map": "/social-react-app/static/js/main.42badfe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32d05814.css",
+    "static/js/main.42badfe7.js"
+  ]
+}

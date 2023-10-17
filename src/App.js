@@ -9,8 +9,8 @@ function App() {
         <>
             <TopBar />
 
-            <Routes basename="/social-react-app">
-             
+            <Routes>
+                <Route path="/social-react-app" element={<Home />}></Route>
                 <Route path="/login" element={<LogIn />}></Route>
                 <Route path="/" element={<Home />}></Route>
             </Routes>

@@ -1,5 +1,5 @@
 import React from 'react';
-import { Navigate, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Home from './pages/home/Home';
 import LogIn from './pages/login/LogIn';
 import TopBar from './components/topbar/TopBar';
@@ -10,9 +10,9 @@ function App() {
             <TopBar />
 
             <Routes>
-                <Route path="/home" element={<Home />}></Route>
+                <Route path="/social-react-app" element={<Home />}></Route>
                 <Route path="/login" element={<LogIn />}></Route>
-               
+                <Route path="/" element={<Home />}></Route>
             </Routes>
         </>
     );
